@@ -15,3 +15,4 @@ Practice Exercise:
 
 Use: HTML, CSS, JavaScript and JQuery and Bootstrap 
 
+![image](https://user-images.githubusercontent.com/90688465/134161645-87a38dbd-fab1-4e6f-a86b-45d059328e7c.png)
