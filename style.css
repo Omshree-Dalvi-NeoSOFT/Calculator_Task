@@ -1,0 +1,45 @@
+body{
+background-color: antiquewhite;
+}
+.h1{
+    margin: 20px;
+    font-size: larger;
+}
+.calc{
+    text-align: center;
+    margin-left: 25%;
+    padding: 2%;
+    font-size: 20px;
+    box-shadow: 0 4px rgba(0,0,0,0.2);
+}
+.calc .btn{
+    width: 100%;
+}
+.calc .btn:hover{
+    box-shadow: 0 4px rgba(0,0,0,0.2);
+}
+h2{
+    text-align: center;
+}
+.history{
+    height: 290px;
+    overflow-y: scroll;
+}
+.history .a{
+    list-style-type: none;
+}
+#answer{
+    width: 270px;
+    font-size: 26px;
+    text-align: center;
+    background-color: #f1faeb;
+    float: right;
+}
+/* answer hover effect */
+#answer:hover{
+    width: 270px;
+    font-size: 26px;
+    text-align: center;
+    box-shadow: 0 4px rgba(0,0,0,0.2);
+    background-color: #f1faeb;
+}
